@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f12fa83f-5f6f-45d3-8435-c55f2c4c045a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JB1/buatForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/buatTabel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/bunga2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/font.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/gambar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/garishorizontal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/heading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/karakter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/macamLink.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/paragraf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/paragrafAlign.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB1/warna.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/Stylefloat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/backgroundCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/div.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/flexbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/fontCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/linkCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/marginCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/paddingCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/positionCSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/styleFloat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/styleFont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/styleLink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/styleMargin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/stylePadding.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/stylePosition.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/styleText.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JB2/textCSS.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tio" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ctBLDJnHbD2JiM1VxTq5qCGck4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/xampp/htdocs/dasarWeb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f12fa83f-5f6f-45d3-8435-c55f2c4c045a" name="Changes" comment="" />
+      <created>1708920936965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708920936965</updated>
+      <workItem from="1708920937940" duration="1403000" />
+    </task>
+    <task id="LOCAL-00001" summary="File Pertemuan 3">
+      <created>1708921348684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708921348684</updated>
+    </task>
+    <task id="LOCAL-00002" summary="File Pertemuan 3">
+      <created>1708921444045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708921444045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="File Pertemuan 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="File Pertemuan 3" />
+  </component>
+</project>
