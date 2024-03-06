@@ -4,42 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f12fa83f-5f6f-45d3-8435-c55f2c4c045a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JB1/buatForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/buatTabel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/bunga2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/font.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/gambar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/garishorizontal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/heading.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/karakter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/macamLink.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/paragraf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/paragrafAlign.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB1/warna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/Stylefloat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/backgroundCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/div.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/flexbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/fontCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/linkCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/marginCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/paddingCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/positionCSS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/style1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/styleFloat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/styleFont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/styleLink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/styleMargin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/stylePadding.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/stylePosition.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/styleText.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JB2/textCSS.html" beforeDir="false" />
+    <list default="true" id="f12fa83f-5f6f-45d3-8435-c55f2c4c045a" name="Changes" comment="File Pertemuan 3">
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/Boolean_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/FunctionNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/Strings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/alert_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/array_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/confirm_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/for_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/fungsi_javascript1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/helloworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/if_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/ifelse_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/js/kode-program.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/js/switchcase_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/nestedif_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/operator_javascript1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/tipedata_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/variabel_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/dowhile_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan3/while_javascript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pertemuan3/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan3/belajar-js/Dialog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -62,27 +50,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2ctBLDJnHbD2JiM1VxTq5qCGck4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/xampp/htdocs/dasarWeb",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/dasarWeb&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dasarWeb\Pertemuan3\belajar-js" />
+      <recent name="C:\xampp\htdocs\dasarWeb\Pertemuan3\belajar-js\js" />
+      <recent name="C:\xampp\htdocs\dasarWeb\Pertemuan3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,7 +89,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708920936965</updated>
-      <workItem from="1708920937940" duration="1403000" />
+      <workItem from="1708920937940" duration="4327000" />
+      <workItem from="1708952017445" duration="298000" />
+      <workItem from="1708952334403" duration="24000" />
+      <workItem from="1708961071251" duration="3292000" />
+      <workItem from="1708994629697" duration="2426000" />
+      <workItem from="1709729400936" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="File Pertemuan 3">
       <created>1708921348684</created>
@@ -107,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708921444045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="File Pertemuan 3">
+      <created>1708922391774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708922391774</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
